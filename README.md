@@ -23,7 +23,7 @@ ONE - Oracle Next Education é um programa de educação e empregabilidade com o
  ### Iniciante em Programação
  - [Lógica de programação: mergulhe em programação com JavaScript](https://cursos.alura.com.br/user/matheus-valim1007/course/logica-programacao-mergulhe-programacao-javascript/certificate)
  - [Lógica de programação: explore funções e listas](https://cursos.alura.com.br/user/matheus-valim1007/course/logica-programacao-funcoes-listas/certificate)
- - Git e GitHub: compartilhando e colaborando em projetos
+ - [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/user/matheus-valim1007/course/git-github-compartilhando-colaborando-projetos/certificate)
  - Praticando Lógica de programação: Challenge amigo secreto
  - ChatGPT: otimizando a qualidade dos resultados
  - HTML e CSS: ambientes de desenvolvimento, estrutura de arquivose e tags
