@@ -28,4 +28,4 @@ ONE - Oracle Next Education é um programa de educação e empregabilidade com o
  - [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivose e tags]()
  - [HTML e CSS: Classes, posicionamento e FlexBox]()
  - [HTML e CSS: cabeçalho, footer e variáveis CSS]()
- - [HTML e CSS: trabalhando com responsividade e publicação de projetos]()
+ - [HTML e CSS: trabalhando com responsividade e publicação de projetos]
