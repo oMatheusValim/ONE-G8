@@ -25,8 +25,8 @@ ONE - Oracle Next Education é um programa de educação e empregabilidade com o
  - [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/user/matheus-valim1007/course/git-github-compartilhando-colaborando-projetos/certificate)
  - [Praticando Lógica de programação: Challenge amigo secreto](https://cursos.alura.com.br/user/matheus-valim1007/course/logica-programacao-challenge-amigo-secreto/certificate)
  - [ChatGPT: otimizando a qualidade dos resultados](https://cursos.alura.com.br/user/matheus-valim1007/course/chatgpt-otimizando-qualidade-resultados/certificate)
- - HTML e CSS: ambientes de desenvolvimento, estrutura de arquivose e tags
- - HTML e CSS: Classes, posicionamento e FlexBox
+ - [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivose e tags](https://cursos.alura.com.br/user/matheus-valim1007/course/html-css-ambiente-arquivos-tags/certificate)
+ - [HTML e CSS: Classes, posicionamento e FlexBox](https://cursos.alura.com.br/user/matheus-valim1007/course/html-css-classes-posicionamento-flexbox/certificate)
  - HTML e CSS: cabeçalho, footer e variáveis CSS
  - HTML e CSS: trabalhando com responsividade e publicação de projetos
 
@@ -60,10 +60,14 @@ ONE - Oracle Next Education é um programa de educação e empregabilidade com o
 ### ChatGPT: otimizando a qualidade dos resultados
 -> Dicas de engenharia de prompt para aumentar a eficiência em pesquisas no ChatGPT.
 
-###HTML e CSS: ambientes de desenvolvimento, estrutura de arquivose e tags
-###HTML e CSS: Classes, posicionamento e FlexBox
-###HTML e CSS: cabeçalho, footer e variáveis CSS
-###HTML e CSS: trabalhando com responsividade e publicação de projetos
+### HTML e CSS: ambientes de desenvolvimento, estrutura de arquivose e tags
+-> O curso aborda conceitos básicos de HTML e CSS, incluindo a criação de arquivos, a estrutura de páginas web, a implementação de imagens, a linkagem, o uso das principais tags e a utilização da plataforma Figma para planejamento e estilização via CSS. Com isso, é iniciado o projeto Portifólio. O modelo de referência está presente em https://www.figma.com/community/file/1410363576427136130
+
+### HTML e CSS: Classes, posicionamento e FlexBox
+-> O curso dá continuidade ao projeto do portfólio, aprofundando a estilização com CSS, incluindo o agrupamento por classes, links, importar fontes e o posicionamento de elementos por meio do Flexbox.
+
+### HTML e CSS: cabeçalho, footer e variáveis CSS
+### HTML e CSS: trabalhando com responsividade e publicação de projetos
 
 ## 🎖 CERTIFICADOS GERAIS
 
