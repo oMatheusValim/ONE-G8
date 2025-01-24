@@ -27,8 +27,8 @@ ONE - Oracle Next Education é um programa de educação e empregabilidade com o
  - [ChatGPT: otimizando a qualidade dos resultados](https://cursos.alura.com.br/user/matheus-valim1007/course/chatgpt-otimizando-qualidade-resultados/certificate)
  - [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivose e tags](https://cursos.alura.com.br/user/matheus-valim1007/course/html-css-ambiente-arquivos-tags/certificate)
  - [HTML e CSS: Classes, posicionamento e FlexBox](https://cursos.alura.com.br/user/matheus-valim1007/course/html-css-classes-posicionamento-flexbox/certificate)
- - HTML e CSS: cabeçalho, footer e variáveis CSS
- - HTML e CSS: trabalhando com responsividade e publicação de projetos
+ - [HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/user/matheus-valim1007/course/html-css-cabecalho-footer-variaveis-css/certificate)
+ - [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/user/matheus-valim1007/course/html-css-responsividade-publicacao-projetos/certificate)
 
 
 ## 💭 Informações dos cursos
@@ -67,9 +67,12 @@ ONE - Oracle Next Education é um programa de educação e empregabilidade com o
 -> O curso dá continuidade ao projeto do portfólio, aprofundando a estilização com CSS, incluindo o agrupamento por classes, links, importar fontes e o posicionamento de elementos por meio do Flexbox.
 
 ### HTML e CSS: cabeçalho, footer e variáveis CSS
+-> O curso aprimora o projeto do Portfólio, introduzindo novas abas, navegação entre telas, automatização e unificação de cores e fontes de texto por meio de variáveis, além da implementação de animações em botões. O modelo de referência está presente em https://www.figma.com/community/file/1410367096860989575
+
 ### HTML e CSS: trabalhando com responsividade e publicação de projetos
+-> O curso ensina a hospedar o projeto na nuvem utilizando a plataforma Vercel, permitindo seu compartilhamento e acesso em computadores e dispositivos móveis. Além disso, aborda a responsividade, garantindo o redimensionamento adequado do conteúdo de acordo com o tamanho da tela.
 
 ## 🎖 CERTIFICADOS GERAIS
 
 - [Desenvolvimento Pessoal](https://cursos.alura.com.br/user/matheus-valim1007/degree-desenvolvimento-pessoal-grupo8-one-855197/certificate)
-- Iniciante em Programação
+- [Iniciante em Programação](https://cursos.alura.com.br/user/matheus-valim1007/degree-logica-de-programacao-grupo8-one-855206/certificate)
