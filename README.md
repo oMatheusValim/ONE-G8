@@ -1,10 +1,10 @@
 # ONE - Oracle Next Education G8
 
 ## 📖 Índice
-- [SOBRE](#sobre)
-- [ESTRUTURA DOS CURSOS](#estrutura-dos-cursos)
-- [INFORMAÇÔES DOS CURSOS](#informações-dos-cursos)
-- [CERTIFICADOS GERAIS](#certificados-gerais)
+- [SOBRE](#-sobre)
+- [ESTRUTURA DOS CURSOS](#-estrutura-dos-cursos)
+- [INFORMAÇÔES DOS CURSOS](#-informações-dos-cursos)
+- [CERTIFICADOS GERAIS](#-certificados-gerais)
 
 ## 🔎 Sobre 
 Este repositório foi criado para compartilhar os desafios de programação e projetos que estou desenvolvendo ao longo da minha jornada no programa de Iniciante em Programação G8 - ONE, criado em uma parceria entre a Alura e a Oracle Next Education.
