@@ -11,6 +11,8 @@ Este repositório foi criado para compartilhar os desafios de programação e pr
 
 ONE - Oracle Next Education é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras. O curso é 100% online e totalmente gratuito, voltado para quem não teve acesso à educação de qualidade e deseja transformar a sua realidade social.
 
+O curso foi estruturado para oferecer uma progressão completa, partindo dos fundamentos — como desenvolvimento pessoal e lógica de programação — até tópicos avançados, incluindo uma especialização em Data Science. Essa abordagem em camadas me permitiu consolidar uma bases sólida antes de mergulhar em conceitos complexos, alinhando perfeitamente à proposta inclusiva do programa ONE.
+
 ## 🌿 Estrutura dos cursos
 
 ### Desenvolvimento Pessoal
@@ -29,6 +31,19 @@ ONE - Oracle Next Education é um programa de educação e empregabilidade com o
  - [HTML e CSS: Classes, posicionamento e FlexBox](https://cursos.alura.com.br/user/matheus-valim1007/course/html-css-classes-posicionamento-flexbox/certificate)
  - [HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/user/matheus-valim1007/course/html-css-cabecalho-footer-variaveis-css/certificate)
  - [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/user/matheus-valim1007/course/html-css-responsividade-publicacao-projetos/certificate)
+
+### Modelagem de Dados com Python
+- [Python para Data Science: primeiros passos](https://cursos.alura.com.br/user/matheus-valim1007/course/python-data-science-primeiros-passos/certificate)
+
+- Python para Data Science: trabalhando com funções, estrutura de dados
+
+- Praticando Python para Data Science: Challenge Alura Store
+
+- Modelagem de dados: identificando entidades, atributos, relacionamentos
+
+- Modelagem de dados: desenvolvendo o modelo lógico
+
+- Modelagem de dados: construindo o modelo físico
 
 
 ## 💭 Informações dos cursos
@@ -71,6 +86,9 @@ ONE - Oracle Next Education é um programa de educação e empregabilidade com o
 
 ### HTML e CSS: trabalhando com responsividade e publicação de projetos
 -> O curso ensina a hospedar o projeto na nuvem utilizando a plataforma Vercel, permitindo seu compartilhamento e acesso em computadores e dispositivos móveis. Além disso, aborda a responsividade, garantindo o redimensionamento adequado do conteúdo de acordo com o tamanho da tela.
+
+### Python para Data Science: primeiros passos
+-> O curso oferece uma introdução prática à linguagem Python, ensinando desde a sintaxe básica até conceitos essenciais como declaração de variáveis, criação e manipulação de listas, uso de estruturas condicionais (if, elif, else), operadores lógicos, laços de repetição (for e while) e trabalho com dicionários.
 
 ## 🎖 CERTIFICADOS GERAIS
 
