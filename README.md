@@ -21,6 +21,13 @@ O curso foi estruturado para oferecer uma progressão completa, partindo dos fun
  - [Foco: trazendo mais resultados para o dia a dia](https://cursos.alura.com.br/user/matheus-valim1007/course/foco-o-poder-do-habito-seu-dia-a-dia/certificate)
  - [Hábitos: da produtividade às metas pessoais](https://cursos.alura.com.br/user/matheus-valim1007/course/habitos-produtividade-metas-pessoais/certificate)
 
+### Empreendedorismo, Agilidade e Protagonismo na Carreira
+- [Desenvolvimento de carreira: a demanda do mercado](https://cursos.alura.com.br/user/matheus-valim1007/course/desenvolvimento-de-carreira-a-demanda-do-mercado/certificate)
+- [Propósito profissional: seja protagonista da sua carreira](https://cursos.alura.com.br/user/matheus-valim1007/course/proposito-profissional-protagonista-carreira/certificate)
+- [Transição de carreira: um guia para a área da tecnologia](https://cursos.alura.com.br/user/matheus-valim1007/course/transicao-carreira-tecnologia-guia-basico/certificate)
+- [Gestão Ágil: explorando conceitos da agilidade](https://cursos.alura.com.br/user/matheus-valim1007/course/gestao-agil-conceitos-agilidade/certificate)
+- [Empreendedorismo: da ideia ao plano de negócios](https://cursos.alura.com.br/user/matheus-valim1007/course/empreendedorismo/certificate)
+
  ### Iniciante em Programação
  - [Lógica de programação: mergulhe em programação com JavaScript](https://cursos.alura.com.br/user/matheus-valim1007/course/logica-programacao-mergulhe-programacao-javascript/certificate)
  - [Lógica de programação: explore funções e listas](https://cursos.alura.com.br/user/matheus-valim1007/course/logica-programacao-funcoes-listas/certificate)
@@ -34,16 +41,31 @@ O curso foi estruturado para oferecer uma progressão completa, partindo dos fun
 
 ### Modelagem de Dados com Python
 - [Python para Data Science: primeiros passos](https://cursos.alura.com.br/user/matheus-valim1007/course/python-data-science-primeiros-passos/certificate)
-
-- Python para Data Science: trabalhando com funções, estrutura de dados
+- [Python para Data Science: trabalhando com funções, estrutura de dados](https://cursos.alura.com.br/user/matheus-valim1007/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate)
 
 - Praticando Python para Data Science: Challenge Alura Store
-
 - Modelagem de dados: identificando entidades, atributos, relacionamentos
-
 - Modelagem de dados: desenvolvendo o modelo lógico
-
 - Modelagem de dados: construindo o modelo físico
+
+### Aprendendo a fazer ETL
+- NumPy: análise numérica eficiente com Python
+- Pandas: conhecendo a biblioteca
+- Pandas I/O: trabalhando com diferentes formatos de arquivos
+- Pandas: transformação e manipulação de dados
+- Data Visualization: criando gráficos com bibliotecas Python
+- Challenge Telecom X: análise de evasão de clientes
+- IA aplicada a Data Science: utilizando IA na construção de visualização de dados
+
+### Estatística e Machine Learning
+- Estatística com Python: resumindo e analisando dados
+- Estatística com Python: probabilidade e amostragem
+- Data Science: testando relações com Regressão Linear
+- Regressão Linear: técnicas avançadas de modelagem
+- Classificação: aprendendo a classificar dados com Machine Learning
+- Classificação: validação de modelos e métricas de avaliação
+- IA aumentada: prevendo atrasos de voos
+- Challenge Telecom X: análise de evasão de clientes - Parte 2
 
 
 ## 💭 Informações dos cursos
@@ -59,6 +81,21 @@ O curso foi estruturado para oferecer uma progressão completa, partindo dos fun
 
 ### Hábitos: da produtividade às metas pessoais
 -> O curso aborda como definir prioridades na elaboração de um cronograma de tarefas, utilizando o método SMART, que significa Específica, Mensurável, Atingível, Relevante e Temporal. Além disso, discute a importância de dividir a rotina, alternando períodos de foco total nas tarefas com pausas para descanso, a fim de manter a produtividade por mais tempo.
+
+### Desenvolvimento de carreira: a demanda do mercado
+-> Este curso foca em como impulsionar sua carreira, ensinando a analisar o mercado, construir um diferencial competitivo e gerenciar o desempenho. Também aprendi sobre o papel da liderança no desenvolvimento profissional, como criar uma estratégia e plano de ação para a carreira, e a importância do networking para expandir oportunidades.
+
+### Propósito profissional: seja protagonista da sua carreira
+-> Este curso guia a descoberta do seu propósito profissional utilizando o modelo Ikigai. Ele te convida a uma profunda reflexão sobre si mesmo para encontrar a intersecção ideal entre suas principais características: sua paixão, sua missão, sua profissão e sua vocação. Ao final, é possível ter clareza para ser o verdadeiro protagonista da sua jornada profissional.
+
+### Transição de carreira: um guia para a área da tecnologia
+-> O programa aborda pilares fundamentais para o sucesso nesta transição, incluindo o autoconhecimento como ferramenta essencial para a escolha assertiva de uma especialidade dentro do vasto campo tecnológico. São exploradas as melhores práticas para a construção de um portfólio robusto e impactante, além de estratégias e boas práticas em entrevistas de emprego para otimizar as chances de colocação. Adicionalmente, o curso introduz os conceitos e fundamentos do empreendedorismo digital, preparando o indivíduo para diversas modalidades de atuação neste setor em constante expansão.
+
+### Gestão Ágil: explorando conceitos da agilidade
+-> Este curso foi desenvolvido para oferecer uma imersão completa nos princípios da Gestão Ágil. Ele apresenta os pensamentos, métodos, gestões e práticas ágeis que são essenciais para o cenário profissional contemporâneo. O programa aborda como agregar valor de forma contínua, as melhores estruturas para organização de entregas e planejamento, e aprofunda-se em frameworks amplamente utilizados como Scrum e Kanban. Além disso, explora conceitos de Management 3.0 e a importância do MVP (Produto Mínimo Viável), capacitando o aluno a aplicar a agilidade em diversos contextos e projetos.
+
+### Empreendedorismo: da ideia ao plano de negócios
+-> Este curso foi desenhado para guiar aspirantes a empreendedores desde o estágio inicial da ideia até a elaboração de um plano de negócios sólido. O programa explora as diversas formas de ser um empreendedor, cultivando o mindset necessário para o sucesso. Aborda também o conceito de empreendedorismo cooperativo, a importância da escalabilidade para o crescimento do negócio, e como construir um posicionamento e atratividade no mercado. O curso detalha a criação de um modelo de negócios robusto e, por fim, a estruturação de um plano de negócios completo e estratégico.
 
 ### Lógica de programação: mergulhe em programação com JavaScript
 -> O curso aborda noções básicas de lógica de programação aplicadas ao JavaScript, por meio da criação de um jogo em que o objetivo é acertar um número sorteado aleatoriamente entre 1 e um valor definido pelo usuário. O jogo fornece dicas indicando se o número é maior ou menor que o inserido, e só termina quando o usuário acerta. Toda a interação ocorre por meio da função `alert` do JavaScript.
@@ -90,7 +127,71 @@ O curso foi estruturado para oferecer uma progressão completa, partindo dos fun
 ### Python para Data Science: primeiros passos
 -> O curso oferece uma introdução prática à linguagem Python, ensinando desde a sintaxe básica até conceitos essenciais como declaração de variáveis, criação e manipulação de listas, uso de estruturas condicionais (if, elif, else), operadores lógicos, laços de repetição (for e while) e trabalho com dicionários.
 
+### Python para Data Science: trabalhando com funções, estrutura de dados e exceções
+-> Esse curso ensina a importar e usar recursos de bibliotecas, como matplotlib, random (choices), math (ceil). Além disso, apresenta built-in functions, como len, round e sum, por exemplo, criação de funções (lambda, map).
+
+### Praticando Python para Data Science: Challenge Alura Store
+-> 
+
+### Modelagem de dados: identificando entidades, atributos, relacionamentos
+-> 
+
+### Modelagem de dados: desenvolvendo o modelo lógico
+->
+
+### Modelagem de dados: construindo o modelo físico
+->
+
+### NumPy: análise numérica eficiente com Python
+-> 
+
+### Pandas: conhecendo a biblioteca
+-> 
+
+### Pandas I/O: trabalhando com diferentes formatos de arquivos
+->
+
+### Pandas: transformação e manipulação de dados
+->
+
+### Data Visualization: criando gráficos com bibliotecas Python
+->
+
+### Challenge Telecom X: análise de evasão de clientes
+->
+
+### IA aplicada a Data Science: utilizando IA na construção de visualização de dados
+-> 
+
+### Estatística com Python: resumindo e analisando dados
+->
+
+### Estatística com Python: probabilidade e amostragem
+->
+
+### Data Science: testando relações com Regressão Linear
+->
+
+### Regressão Linear: técnicas avançadas de modelagem
+->
+
+### Classificação: aprendendo a classificar dados com Machine Learning
+->
+
+### Classificação: validação de modelos e métricas de avaliação
+->
+
+### IA aumentada: prevendo atrasos de voos
+->
+
+### Challenge Telecom X: análise de evasão de clientes - Parte 2
+->
+
 ## 🎖 CERTIFICADOS GERAIS
 
 - [Desenvolvimento Pessoal](https://cursos.alura.com.br/user/matheus-valim1007/degree-desenvolvimento-pessoal-grupo8-one-855197/certificate)
+- [Empreendedorismo, Agilidade e Protagonismo na Carreira](https://cursos.alura.com.br/user/matheus-valim1007/degree-empreendedorismo-e-agilidade-grupo8-one-894743/certificate)
 - [Iniciante em Programação](https://cursos.alura.com.br/user/matheus-valim1007/degree-logica-de-programacao-grupo8-one-855206/certificate)
+- Modelagem de Dados com Python
+- Aprendendo a fazer ETL
+- Estatística e Machine Learning
