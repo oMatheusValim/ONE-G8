@@ -113,13 +113,13 @@ O curso foi estruturado para oferecer uma progressão completa, partindo dos fun
 -> Dicas de engenharia de prompt para aumentar a eficiência em pesquisas no ChatGPT.
 
 ### HTML e CSS: ambientes de desenvolvimento, estrutura de arquivose e tags
--> O curso aborda conceitos básicos de HTML e CSS, incluindo a criação de arquivos, a estrutura de páginas web, a implementação de imagens, a linkagem, o uso das principais tags e a utilização da plataforma Figma para planejamento e estilização via CSS. Com isso, é iniciado o projeto Portifólio. O modelo de referência está presente em https://www.figma.com/community/file/1410363576427136130
+-> O curso aborda conceitos básicos de HTML e CSS, incluindo a criação de arquivos, a estrutura de páginas web, a implementação de imagens, a linkagem, o uso das principais tags e a utilização da plataforma Figma para planejamento e estilização via CSS. Com isso, é iniciado o projeto Portifólio. O modelo de referência está presente em [link](https://www.figma.com/community/file/1410363576427136130)
 
 ### HTML e CSS: Classes, posicionamento e FlexBox
 -> O curso dá continuidade ao projeto do portfólio, aprofundando a estilização com CSS, incluindo o agrupamento por classes, links, importar fontes e o posicionamento de elementos por meio do Flexbox.
 
 ### HTML e CSS: cabeçalho, footer e variáveis CSS
--> O curso aprimora o projeto do Portfólio, introduzindo novas abas, navegação entre telas, automatização e unificação de cores e fontes de texto por meio de variáveis, além da implementação de animações em botões. O modelo de referência está presente em https://www.figma.com/community/file/1410367096860989575
+-> O curso aprimora o projeto do Portfólio, introduzindo novas abas, navegação entre telas, automatização e unificação de cores e fontes de texto por meio de variáveis, além da implementação de animações em botões. O modelo de referência está presente em [link](https://www.figma.com/community/file/1410367096860989575)
 
 ### HTML e CSS: trabalhando com responsividade e publicação de projetos
 -> O curso ensina a hospedar o projeto na nuvem utilizando a plataforma Vercel, permitindo seu compartilhamento e acesso em computadores e dispositivos móveis. Além disso, aborda a responsividade, garantindo o redimensionamento adequado do conteúdo de acordo com o tamanho da tela.
@@ -131,10 +131,10 @@ O curso foi estruturado para oferecer uma progressão completa, partindo dos fun
 -> Esse curso ensina a importar e usar recursos de bibliotecas, como matplotlib, random (choices), math (ceil). Além disso, apresenta built-in functions, como len, round e sum, por exemplo, criação de funções (lambda, map).
 
 ### Praticando Python para Data Science: Challenge Alura Store
--> 
+-> Este curso representa uma etapa prática e fundamental na aplicação do conhecimento adquirido na especialização em modelagem de dados com Python. Nele, tive o desafio de trabalhar com bases de dados CSV, aplicando filtros e realizando análises para extrair conclusões relevantes. Para uma melhor compreensão e visualização dos dados, foram elaborados diversos gráficos. O projeto foi organizado através do Trello, disponível em [link](https://trello.com/b/IMCMcivD/alura-store-br), o que demonstra a abordagem prática e focada em resultados que o curso propôs.
 
 ### Modelagem de dados: identificando entidades, atributos, relacionamentos
--> 
+-> Entidades, atributos e relacionamentos, 
 
 ### Modelagem de dados: desenvolvendo o modelo lógico
 ->
