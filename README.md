@@ -4,6 +4,7 @@
 - [SOBRE](#-sobre)
 - [ESTRUTURA DOS CURSOS](#-estrutura-dos-cursos)
 - [INFORMAÇÔES DOS CURSOS](#-informações-dos-cursos)
+- [TECH EXPLORER](#one--tech-explorer)
 - [CERTIFICADOS GERAIS](#-certificados-gerais)
 
 ## 🔎 Sobre 
@@ -12,6 +13,8 @@ Este repositório foi criado para compartilhar os desafios de programação e pr
 ONE - Oracle Next Education é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras. O curso é 100% online e totalmente gratuito, voltado para quem não teve acesso à educação de qualidade e deseja transformar a sua realidade social.
 
 O curso foi estruturado para oferecer uma progressão completa, partindo dos fundamentos — como desenvolvimento pessoal e lógica de programação — até tópicos avançados, incluindo uma especialização em Data Science. Essa abordagem em camadas me permitiu consolidar uma bases sólida antes de mergulhar em conceitos complexos, alinhando perfeitamente à proposta inclusiva do programa ONE.
+
+Após a formação de 325h do ONE Tech Foundation G8 - Data Science, foi possível continuar com os estudos, de forma opcional. Essa continuação, denominada Tech Explorer, conta com 68h com a abordagem em banco de dados, IA generativa e cloud.
 
 ## 🌿 Estrutura dos cursos
 
@@ -65,6 +68,22 @@ O curso foi estruturado para oferecer uma progressão completa, partindo dos fun
 - [Classificação: validação de modelos e métricas de avaliação](https://cursos.alura.com.br/user/matheus-valim1007/course/classificacao-validacao-modelos-metricas-avaliacao/certificate)
 - [IA aumentada: prevendo atrasos de voos](https://cursos.alura.com.br/user/matheus-valim1007/course/ia-aumentada-prevendo-atrasos-voos/certificate)
 - [Challenge Telecom X: análise de evasão de clientes - Parte 2](https://cursos.alura.com.br/user/matheus-valim1007/course/challenge-telecom-x/certificate)
+
+## ONE | TECH EXPLORER
+Essa foi uma fase de continuação opcional, sendo uma oportunidade para continuar explorando novas tecnologias e se manter atualizado no mercado de trabalho.
+
+### Consultas SQL com MySQL Server da Oracle 
+- MySQL: Conhecendo a ferramenta
+- MySQL: Executando Procedures
+- MySQL: Trabalhando com funções
+- MySQL: Aplicado para análise de dados
+
+### IA Generativa
+- IA: Explorando o potencial da inteligência artificial generativa
+- Engenharia de prompt: criando prompts eficazes para IA generativa
+- Produtividade: otimizando sua rotina com inteligência artificial
+
+### Oracle Cloud Infrastructure
 
 
 ## 💭 Informações dos cursos
@@ -186,6 +205,13 @@ O curso foi estruturado para oferecer uma progressão completa, partindo dos fun
 ### Challenge Telecom X: análise de evasão de clientes - Parte 2
 -> Este desafio foca na continuação da análise de evasão de clientes, com ênfase na preparação de dados e na construção de modelos preditivos. O projeto aborda a preparação e separação adequada dos dados para o treinamento de modelos, seguida por uma análise de correlação entre as variáveis. Utiliza-se a regressão linear como ferramenta para modelar as relações entre as variáveis e entender o impacto de cada uma no comportamento do cliente. A etapa final concentra-se no desenvolvimento e aplicação de modelos de Machine Learning para gerar previsões de evasão. Os dados utilizados foram originados do Challenge Telecom X - Parte 1, e o projeto foi organizado e acompanhado através do [Trello](https://trello.com/b/mgXEuWmG/telecomxparte2br)
 
+### MySQL: Conhecendo a ferramenta
+### MySQL: Executando Procedures
+### MySQL: Trabalhando com funções
+### MySQL: Aplicado para análise de dados
+### IA: Explorando o potencial da inteligência artificial generativa
+### Engenharia de prompt: criando prompts eficazes para IA generativa
+### Produtividade: otimizando sua rotina com inteligência artificial
 
 ## 🎖 CERTIFICADOS GERAIS
 
@@ -195,3 +221,4 @@ O curso foi estruturado para oferecer uma progressão completa, partindo dos fun
 - [Modelagem de Dados com Python](https://cursos.alura.com.br/user/matheus-valim1007/degree-modelagem-de-dados-python-grupo8-one-892363/certificate)
 - [Aprendendo a fazer ETL](https://cursos.alura.com.br/user/matheus-valim1007/degree-etl-com-pandas-grupo8-one-892414/certificate)
 - [Estatística e Machine Learning](https://cursos.alura.com.br/user/matheus-valim1007/degree-estat%C3%ADstica-e-machine-learning-grupo8-one-892427/certificate)
+- [Tech Explorer]()
